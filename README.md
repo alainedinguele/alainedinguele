@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Alain Edinguele
 
-<!--
-**alainedinguele/alainedinguele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance student interested in data analysis, financial modeling, and using code to solve practical finance problems.
 
-Here are some ideas to get you started:
+I'm currently building my skills in **Python**, **Excel**, and **data visualization**. This profile will grow as I complete new projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently focused on
+- Learning Python for finance
+- Data analysis and visualization
+- Financial modeling
+
+### Contact
+- Email: [edinguele.alain@yahoo.com]
