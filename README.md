@@ -8,8 +8,10 @@ i'm open to Audit / FP&A / Contrôle de gestion
 
 ### Currently focused on
 - Learning Python for finance
+- SQL
 - Data analysis and visualization
 - Financial modeling
+  
 
 ### Contact
 - LinkedIn: [Alain Edinguele](https://www.linkedin.com/in/alain8)
