@@ -10,4 +10,4 @@ I'm currently building my skills in **Python**, **Excel**, and **data visualizat
 - Financial modeling
 
 ### Contact
-- LinkedIn: [Alain Edinguele](www.linkedin.com/in/alain8)
+- LinkedIn: [Alain Edinguele](https://www.linkedin.com/in/alain8)
