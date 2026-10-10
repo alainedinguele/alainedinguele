@@ -10,4 +10,4 @@ I'm currently building my skills in **Python**, **Excel**, and **data visualizat
 - Financial modeling
 
 ### Contact
-- Email: [edinguele.alain@yahoo.com](mailto:edinguele.alain@yahoo.com)
+- LinkedIn: [Alain Edinguele](www.linkedin.com/in/alain8)
