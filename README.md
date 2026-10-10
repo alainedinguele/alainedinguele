@@ -3,7 +3,8 @@
 Finance student interested in data analysis, financial modeling, and using code to solve practical finance problems.
 
 I'm currently building my skills in **Python**, **Excel**, and **data visualization**. This profile will grow as I complete new projects.
-Open to Audit / FP&A / Contrôle de gestion
+
+i'm open to Audit / FP&A / Contrôle de gestion
 
 ### Currently focused on
 - Learning Python for finance
